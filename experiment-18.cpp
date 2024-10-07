@@ -66,3 +66,12 @@ int main() {
     }
     return 0;
 }
+//Output:-
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the value to enqueue: 12
+12 enqueued into the queue.
